@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.lineHeightFit {
+  line-height: 100%;
+}
